@@ -112,7 +112,7 @@
                     </div>
                   </li>
                  <li class="header-get-a-quote">
-                    <a class="btn btn-primary" href="/miniproject/project/Guest/Login.php">LOGIN</a> 
+                    <a class="btn btn-primary" href="/Guest/Login.php">LOGIN</a> 
                   </li>
                 </ul><!-- Ul end -->
             </div><!-- header right end -->
